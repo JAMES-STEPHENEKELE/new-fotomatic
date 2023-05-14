@@ -61,7 +61,7 @@ body{
 }
 .banner{
     display: grid;
-    background-image: url("/ritavera/media/banner-landingpage.jpg");
+    background-image: url("/media/banner-landingpage.jpg");
     height: 500px;
     width:auto;
     background-repeat: no-repeat;
